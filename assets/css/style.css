@@ -141,6 +141,10 @@ h6 {
   color: #fff;
   text-decoration: none;
 }
+.linkedin a:hover{
+  background: #0077B5;
+}
+  
 
 #main {
   margin-left: 300px;
