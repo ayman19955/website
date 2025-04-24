@@ -418,6 +418,7 @@ section {
 }
 
 .about .content ul strong {
+  width: 20%;
   margin-right: 10px;
   color: #fff;
 }
