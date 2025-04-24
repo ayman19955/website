@@ -120,7 +120,7 @@ h6 {
   
 }
 
-.profile .social-links-linkedin a {
+.profile .social-links a {
   margin-bottom: 20px;
   
   font-size: 18px;
@@ -135,7 +135,7 @@ h6 {
   transition: 0.3s;
 }
 
-.profile .social-links-linkedin a:hover {
+.profile .social-links a:hover {
   background: #0077B5;
   
   color: #fff;
