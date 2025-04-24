@@ -142,6 +142,12 @@ h6 {
   text-decoration: none;
 }
 
+.profile .linkedin a:hover {
+  background: #0077B5;
+  
+  color: #fff;
+  text-decoration: none;
+}
   
 
 #main {
