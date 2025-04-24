@@ -135,15 +135,13 @@ h6 {
   transition: 0.3s;
 }
 
-.profile .social-links a:hover {
-  background: #D71C1C;
+.profile .social-links-linkedin a:hover {
+  background: #0077B5;
   
   color: #fff;
   text-decoration: none;
 }
-.linkedin a:hover{
-  background: #0077B5;
-}
+
   
 
 #main {
